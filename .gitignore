@@ -1,2 +1,5 @@
 hwpx/*
 out/*
+
+!hwpx/.gitkeep
+!out/.gitkeep
