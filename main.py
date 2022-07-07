@@ -10,7 +10,8 @@ if __name__ == '__main__':
     hwpx_dir = os.path.join(root_dir, 'hwpx')
 
     for file in os.listdir(hwpx_dir):
-        extract_contents(os.path.join(hwpx_dir, file))
+        if file.endswith('.hwpx'):
+            extract_contents(os.path.join(hwpx_dir, file))
 
     for file in os.listdir(hwpx_dir):
         if file.endswith('.xml'):
