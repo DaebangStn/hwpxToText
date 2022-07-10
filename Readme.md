@@ -38,3 +38,8 @@ doc
 ## 프로젝트에서 텍스트화 한 방식
 ### section0.xml 파일에서 \<hp:t> 태그만 읽어서 텍스트 파일로 전환한다. </br>
 ### \<hp:p> 태그가 삽입된 곳에는 줄 바꿈을 삽입하여 문단의 구분을 표시한다.
+
+
+## Hwpx에 대한 설명
+https://meetup.toast.com/posts/311
+https://meetup.toast.com/posts/311
